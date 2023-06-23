@@ -24,7 +24,7 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![Screenshot (125)](https://github.com/Pravinrajj/Read-from-CSV/assets/117917674/f2551254-f3ac-42a5-a6a5-a9c7f3fb3291)
+![245840285-73662358-fb2d-478e-b737-a7bdba55aaa6](https://github.com/Pravinrajj/Read-from-CSV/assets/117917674/f392057d-b730-4efa-bc12-c579134bbef9)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file
